@@ -18,7 +18,7 @@ Quick Fix
 
 
 ## APIs Used
--
+- https://rapidapi.com/ecommdatahub/api/aliexpress-datahub
 -
 -
 ## WireFrame
@@ -36,7 +36,8 @@ For this Project we will be using these three main front end languages HTML, CSS
 # Flashcard Page
 
 ## Functions
-![screenshot]
+![screenshot](./assets/landing%20page.JPG)
+
 ![screenshot]
 ![screenshot]
 ![screenshot]
@@ -45,18 +46,17 @@ For this Project we will be using these three main front end languages HTML, CSS
 
 ## Latest Development Changes
 ```
-git clone 
+git clone https://github.com/HoldyClaus/UHD-Senior-Project.git
 ```
 
 ## Future Features
-With this project we would like to expand our scope beyond the topics we have covered and really set the bar for learning systems for children and young adults.
+With this project we would like to expand our scope beyond the search engine and push the bounds like amazon and compete with them!
 
 These are some of our purposed additions:
 - Text to speech function with an API call so that the either words, defenitions, letters or numbers will be read out to the user.
-- Expand our scope of being able to set up more customizable cards and decks that the users can save to their profile.
-- Adding additional catagories to the website ranging from flags, states, math problems, history questions etc. with the use of API's.
-- Ability for users to have their custom decks saved and also sharded with the site and users with the ability to score and upvote decks.
-- Have functionality to sort custom decks by grade level and skill level for better ease of access as well as a search function for decks.
+- Expand our scope of being able to set up more customizable so that the users can save to their profile.
+- Users have the ability to set up a store for themselves on the webpage.
+- More comprehensive deep searching algorithm to help find better results for the customer.
 
 # Resources
 - [RapidAPI](https://rapidapi.com/collection/list-of-free-apis)

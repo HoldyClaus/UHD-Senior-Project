@@ -1,5 +1,3 @@
-![sceenshot](./assets/logo-no-background.png)
-
 
 ##  App
 Quick Fix
@@ -22,7 +20,7 @@ Quick Fix
 -
 -
 ## WireFrame
-![original-project-outline](./assets/wireframe.png)
+![original-project-outline]
 
 Our original wireframe includes a header, aside, and body section.
 For this Project we will be using these three main front end languages HTML, CSS, JavaScript
@@ -36,8 +34,7 @@ For this Project we will be using these three main front end languages HTML, CSS
 # Flashcard Page
 
 ## Functions
-![screenshot](./assets/landing%20page.JPG)
-
+![screenshot]
 ![screenshot]
 ![screenshot]
 ![screenshot]

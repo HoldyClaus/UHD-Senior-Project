@@ -11,11 +11,18 @@ function Product() {
                 <strong>19.99</strong>
             </p>
             <div className='product__rating'>
-                
+            {Array(rating)
+            .fill()
+            .map((_, i) => (
+              <p>🌟</p>
+            ))}
             </div>
         </div>
+        <img src={image} alt="" />
+
+        <button>Add to Basket</button>
     </div>
   )
 }
-
+ 
 export default Product
